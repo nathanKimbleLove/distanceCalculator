@@ -1,0 +1,18 @@
+#main_form {
+  border: 1px solid gray;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+}
+
+.point{
+  display: flex;
+  flex: 1;
+
+}
+
+.coord_pair_label {
+  flex-direction: column;
+  margin: 0 5px;
+}
